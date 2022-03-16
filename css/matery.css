@@ -560,11 +560,12 @@ header .go-back i {
     left: 0;
     top: 0;
     content: "";
+    background-image: linear-gradient(to right, #7371BC 0%, #284D95 100%);
 }
 
 .bg-cover .container {
     position: relative;
-    color: #000;
+    color: #fff;
     z-index: 2;
 }
 
