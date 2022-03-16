@@ -240,8 +240,9 @@ mark {
     margin-bottom: 0;
 }
 
+/* 导航栏背景颜色 */
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #7371BC 0%, #284D95 100%);
 }
 
 .text-color {
@@ -548,10 +549,6 @@ header .go-back i {
 
 .post-cover {
     height: 40vh !important;
-}
-
-.bg-color {
-    background-image: linear-gradient(to right, #7371BC 0%, #284D95 100%);
 }
 
 .bg-cover:before,
