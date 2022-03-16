@@ -550,6 +550,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
+.bg-color {
+    background-image: linear-gradient(to right, #7371BC 0%, #284D95 100%);
+}
+
 .bg-cover:before,
 .bg-cover:after {
     position: absolute;
@@ -560,7 +564,6 @@ header .go-back i {
     left: 0;
     top: 0;
     content: "";
-    background-image: linear-gradient(to right, #7371BC 0%, #284D95 100%);
 }
 
 .bg-cover .container {
